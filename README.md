@@ -55,7 +55,11 @@ This project involves developing an **Interactive Harry Potter Character Quiz**,
 ---
 
 ## Screenshots
-*(Add screenshots of your application here.)*
+![WhatsApp Image 2025-01-03 at 14 53 23_fc0b85a2](https://github.com/user-attachments/assets/afdace54-a1b7-41ed-a236-589c1d93399e)
+![WhatsApp Image 2025-01-03 at 14 53 38_0e5b4e4f](https://github.com/user-attachments/assets/940da481-5342-404c-9e57-11746d2d6854)
+![WhatsApp Image 2025-01-03 at 14 54 05_a49d19e9](https://github.com/user-attachments/assets/8ebd6b9c-eebc-40f8-8adb-8d203b55a126)
+![WhatsApp Image 2025-01-03 at 14 52 59_47a02ef0](https://github.com/user-attachments/assets/429d1ed5-839b-4b38-bb0c-ce84d36ee4ad)
+
 
 ---
 
